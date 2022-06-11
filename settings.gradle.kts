@@ -10,3 +10,4 @@
 
 rootProject.name = "Shelter"
 include("app")
+include("bakery")
