@@ -95,8 +95,8 @@ fun main() {
                 if (amount > 0) {
                     basket[item] = (basket[item] ?: 0) + amount
                     print("[info]: successfuly added $amount ${item.name} to you basket!")
-                } else if (amount < 0)
-                    print("[error]: amount must be positive!")
+                } else if (amount <= 0)
+                    print("[error]: amount must be greater than 0!")
             }
 
             else -> print("[error]: unknown option!")

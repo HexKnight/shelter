@@ -1,2 +1,2 @@
 # shelter
-Canvas for my kotlin code 👩‍💻🎆
+Canvas for my kotlin code 💻🎆
