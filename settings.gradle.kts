@@ -11,3 +11,4 @@
 rootProject.name = "Shelter"
 include("app")
 include("bakery")
+include("maze-generator")
